@@ -1,4 +1,4 @@
-# go-snippets
+# Go snippets
 Code snippets of Go
 
 #### HTTP client
